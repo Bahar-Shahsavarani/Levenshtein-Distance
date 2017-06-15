@@ -11,11 +11,11 @@ function distance = LevenshteinDistance(target,answer)
 % This function has one double output: distance
 % Format:   [distance] = LevenshteinDistance(target,answer)
 %
-% Example:  distance = LevenshteinDistance('næp','n?k')
+% Example:  distance = LevenshteinDistance('car','cat')
 
 %          distance =
 
-%               2
+%               1
 
 % $Author: Bahar S. Shahsavarani$    $Date: 2017/06/14$
 
